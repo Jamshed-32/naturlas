@@ -1,0 +1,224 @@
+nav .fb{
+    width: 100%;
+}
+
+#nature .tittle{
+    text-align: center;
+
+}
+#nature .tittle h3{
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: bold;
+    margin-top: 60px;
+}
+#nature .widget.widget-text-heading {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+#nature .nature_item{
+    display: flex;
+    margin: 100px 20px;
+    overflow-x: auto;
+}
+
+#nature .nature_item ul {
+    display: flex;
+    border-bottom: 1px solid #00a651;
+
+    
+    
+}
+#nature .nature_item ul li a{
+    
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 3px;
+    letter-spacing: .5px;
+    border-radius: 0;
+    
+    color: #333;
+
+}
+#nature .nature_item ul li:hover a{
+    color: #00a651;
+}
+#nature .nature_item ul img{
+    width: 45%;
+    display: block;
+    margin: 0 5px;
+}
+
+#card .card_item{
+    transition: all.2s linear;
+    border: none;
+    
+    margin-left: -5%;
+}
+#card .card_item{
+    width: 100%;
+}
+#card .card_item:hover{
+    border: 5px #00a651;
+}
+#card .card{
+    margin-bottom: 60px;
+    margin-left: auto;
+}
+#card .card img{
+    width: 100%;
+}
+
+#card .card_item img{
+    height: 50%;
+    transition: all .2s linear;
+}
+#card .card_item .card:hover img{
+    
+}
+#card .card_item h5{
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0 0 5px;
+    color: #222;
+    transition: all .2s linear;
+    cursor: pointer;
+}
+#card .card_item h5:hover{
+    color: #00a651;
+}
+#card .card_item .card-text{
+    color: #bbb;
+    font-size: 13px;
+}
+#card .card-body a{
+    color: #00a651;
+    background-color: #ffffff;
+    border-color: black;
+    line-height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    margin-top: 35px;
+}
+#card .card_item .card-text-1{
+    color: #00a651;
+    font-size: 14px !important;
+    font-weight: 700;
+    margin: 5px 0;
+}
+#card .card-item_2{
+    
+    margin-left: -5%;
+}
+#card .card-item_2{
+    width: 100%;
+}
+#card .card-item_2 h5{
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0 0 5px;
+    color: #222;
+    transition: all .2s linear;
+    cursor: pointer;
+}
+#card .card-item_2 h5:hover{
+    color: #00a651;
+}
+#card .card-item_2 .card-text{
+    color: #bbb;
+    font-size: 13px;
+}
+
+#card .card-item_2 .card-text-1{
+    color: #00a651;
+    font-size: 14px !important;
+    font-weight: 700;
+    margin: 5px 0;
+}
+#card .rate{
+    color: yellow;
+}
+#card .bt{
+    text-align: center;
+    margin: 100px;
+}
+#card .bt ul li a{
+    font-size: 15px;
+    border-radius: 5%;
+    font-weight: 400;
+    align-items: center;
+    color: #ffffff;
+    background-color: #00a651;
+}
+#Customers .sec-info{
+    display: flex;
+}
+
+
+#Customers h2{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 70px;
+}
+#Customers .sec-info{
+    text-align: center;
+    border: 1px solid #bbb;
+    
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    
+}
+#Customers .in{
+    width: 30%;
+}
+#Customers h6{
+    padding: 25px 16px;
+    color: #00a651;
+    margin-right: 10px;
+
+    padding-right: 10px;
+    
+}
+#Customers h3{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    font-weight: bold;
+    
+    text-transform: capitalize;
+    margin: 0;
+    padding-bottom: 120px;
+}
+#Customers .line{
+    color: #00a651;
+}
+#Customers p{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+/* Extra small devices (phones, 600px and down) */
+@media screen and (max-width: 414px) {
+    #card .card_item .card{
+       
+        align-items: center;
+        margin: 0 auto;
+    }
+    nav #main_menu ul li a{
+        text-align: center;
+    }
+  }
+  @media screen and (max-width: 390px) {
+    nav form button{
+        right: 100px;
+        
+        
+    }
+  }
+/* @media only screen and (max-width: 600px) {
+    #nature .nature_item ul{
+        width: 100%;
+        
+    }
+    #card .card_item .card{
+        align-items: center;
+        text-align: center;
+    }
+} */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    /* #nature .nature_item ul{
+        width: 100%;
+        
+    }
+    #card .card_item .card{
+        align-items: center;
+        text-align: center;
+    }
+} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {
+    #nature .nature_item ul{
+        width: 100%;
+        
+    }
+    #card .card_item .card{
+        align-items: center;
+        text-align: center;
+    }
+} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {
+    #nature .nature_item ul{
+        width: 100%;
+        
+    }
+    #card .card_item .card{
+        align-items: center;
+        text-align: center;
+    }
+} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {
+    #nature .nature_item ul{
+        width: 100%;
+       
+    }
+        #card .card_item .card{
+        align-items: center;
+        
+    }
+} */

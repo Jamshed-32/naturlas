@@ -1,0 +1,165 @@
+
+ol,ul{
+    list-style-type: none;
+}
+a,a:hover{
+    text-decoration: none;
+}
+row{
+    display: flex;
+}
+
+body{
+    
+    font-family: serif;
+}
+
+nav{
+    background-color: #00a651;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+
+nav .menu ul a{
+    font-size: 15px;
+    font-weight: 400;
+    color: #f7f7cd;
+    transition: all 0.2s linear;
+}
+nav .menu ul li:hover a{
+    color: #65d640;
+}
+nav form .fa-solid {
+    color: #ffffff;
+    margin: 15px;
+    
+}
+
+
+
+
+nav .fb .bp button{
+    color: wheat;
+    border: none;
+}
+nav .fb{
+    width: 100%;
+}
+nav #main_menu{
+    width: 50%;
+}
+form{
+    padding: 20px 10px;
+    position: relative;
+    
+}
+form input{
+    width: 75%;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: 1px transparent;
+    
+    
+}
+
+   
+form button{
+    background-color: #00a651;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 8px 5px;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    position: absolute;
+    top: 30px;
+    right: 85px;
+    border: 1px solid transparent;
+}
+form button:hover{
+    background-color:#ffffff;
+    color: #00a651;
+    border: 1px solid black;
+}
+
+
+#flow {
+    background-color: #295746;
+    width: 100%;
+    text-align: center;
+}
+
+#flow .footer-1{
+    line-height: 35px;
+    color: wheat;
+    font-size: 14px;
+}
+
+#flow .footer-2{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+#flow .footer-2 img{
+    width: 50px;
+}
+.first-img{
+    display: block;
+    margin: 0 auto;
+   
+}
+
+#footer{
+    background-image: url(/img/foo_bg.png);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+#footer .perant{
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 92px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 0;
+    
+}
+#footer .perant a{
+    border-right: 1px solid #cccccc;
+    padding: 0 5px;
+    
+    color: #dde2db;
+}
+#footer .perant a:hover{
+    color: #089649;
+    
+}
+
+
+#card .card_item .card{
+    width: 50%;
+}
+#card .card{
+    margin-bottom: 60px;
+    margin-left: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,278 @@
+
+
+#natur{
+    padding: 100px;
+}
+#natur .natur_info{
+    display: flex;
+    flex-wrap: wrap;
+}
+#natur .natur_info img{
+    width: 80%;
+}
+#natur .natur_info h1{
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+    height: auto;
+    margin: 0;
+}
+#natur .gram{
+   
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+    padding: 5px;
+}
+
+#natur .tk{
+    color: #089649;
+    font-size: 30px;
+    font-weight: 700;
+}
+#natur .rate{
+    display: flex;
+    color: #777;
+}
+#natur .custom{
+   padding: 0 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: black;
+    
+    overflow-x: hidden;
+}
+#natur .nat{
+    border-bottom: 1px solid #777;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden
+    
+    
+}
+#natur .nat{
+    margin: 0 0 11.5px;
+}
+#natur .quantity{
+    font-family: var(--tb-text-primary-font);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+    
+    
+}
+#natur .quantity .input-text{
+    width: 10%;
+    text-align: center;
+   
+}
+#natur .quantity .btn{
+    background-color: #089649;
+    color: #fff;
+    padding: 0 30px;
+    line-height: 42px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: normal;
+    border: 1px solid var(--tb-theme-color);
+    display: inline-block;
+    border-radius: 5px !important;
+    letter-spacing: 0;
+    
+}
+#natur .LOVE{
+    color: #777;
+    font-size: 11px;
+    font-weight: normal;
+    padding: 0;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #777;
+}
+#natur .tex{
+    display: flex;
+}
+#natur .text_1{
+    display: flex;
+}
+#natur .cut{
+    
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+}
+#natur .ct{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: black;
+    background: #fff;
+    overflow-x: hidden;
+}
+#natur .ing{
+    display: flex;
+   
+}
+#natur .bt ul{
+    display: flex;
+}
+#natur .bt ul li .rr{
+    
+    border-bottom: 2%;
+}
+#natur .bt ul li i{
+    padding: 5px 10px;
+}
+
+#natur .int{
+    padding: 14px 7px;
+    width: 14%;
+    border-radius: 20px;
+}
+#natur .int ul li  .btn{
+    background-color: #089649;
+}
+
+
+#DESCRIPTION .das .btn{
+    background-color: ;
+    
+    transition: all .2d linear;
+    margin-bottom: 10px;
+    padding: 0 3px 10px;
+    border: 0;
+    margin: 10px;
+    border-style: solid;
+    border-color: transparent;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #17181a;
+    border-width: 0 0 2px !important;
+}
+#DESCRIPTION .das .btn:hover{
+    border-bottom: 1px solid #00a651;
+    
+}
+#DESCRIPTION .info p{
+    
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+}
+#DESCRIPTION .info_2 h2{
+    
+    font-weight: 700;
+    line-height: 1.5;
+    color: #17181a;
+}
+#DESCRIPTION .info_2 p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+}
+#DESCRIPTION .info_3 h2{
+    
+    font-weight: 700;
+    line-height: 1.5;
+    color: #17181a;
+}
+#DESCRIPTION .info_3 h3{
+    
+    font-weight: 700;
+    line-height: 1.5;
+    color: #17181a;
+}
+#DESCRIPTION .info_3 .rate{
+    color: yellow;
+}
+#DESCRIPTION .info_3 p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+}
+#card{
+    margin-bottom: 200px;
+}
+
+
+
+#card .card_item{
+    margin: 30px 60px;
+    
+}
+#card .card{
+    margin: 10px;
+} 
+
+
+
+#card .card_item h5{
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0 0 5px;
+    color: #222;
+    transition: all .2s linear;
+    cursor: pointer;
+}
+#card .card_item h5:hover{
+    color: #00a651;
+}
+#card .card_item .card-text{
+    color: #bbb;
+    font-size: 13px;
+}
+#card .card-body a{
+    color: #00a651;
+    background-color: #ffffff;
+    border-color: black;
+    line-height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    margin-top: 35px;
+}
+#card .card_item .card-text-1{
+    color: #00a651;
+    font-size: 14px !important;
+    font-weight: 700;
+    margin: 5px 0;
+}
+
+#card .rate{
+    color: yellow;
+}
+#card .bt{
+    text-align: center;
+    margin: 100px;
+}
+#card .bt ul li a{
+    font-size: 15px;
+    border-radius: 5%;
+    font-weight: 400;
+    align-items: center;
+    color: #ffffff;
+    background-color: #00a651;
+}
